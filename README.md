@@ -1,8 +1,12 @@
 <div align="center">
 
-# Merhaba ben Hecra👋
+# Hey, I'm haecra 👋
 
-**Flutter Developer** · **Web Enthusiast** · **UI Lover**
+**Flutter Developer** · **Mobile & Game Dev**
+
+<a href="https://open.spotify.com/user/37r0hhpbm3qvtlq8sq9gfalsq">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=37r0hhpbm3qvtlq8sq9gfalsq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=e8b4bc" alt="Spotify" />
+</a>
 
 </div>
 
@@ -13,7 +17,7 @@
 > Cross-platform mobil uygulama geliştiriyorum ve modern web arayüzleri tasarlıyorum.
 
 - 🔭 Currently focusing on **Flutter & TypeScript**
-- 🎨 Passionate about **Clean UI Design**
+- 🎮 Also exploring **Unity & Game Development**
 
 ---
 
@@ -24,15 +28,10 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
-
----
-
-## 🎧 Now Playing
-
-<a href="https://open.spotify.com/user/37r0hhpbm3qvtlq8sq9gfalsq">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=37r0hhpbm3qvtlq8sq9gfalsq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=e8b4bc" alt="Spotify" />
-</a>
 
 ---
 
