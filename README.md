@@ -1,23 +1,41 @@
-[![MasterHead](https://i.pinimg.com/originals/35/39/75/353975e3da1646043d3462bab2fd8b6d.gif)](https://haecra.io)
-<h1 align="center">Merhaba, ben Hecra</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haecra&label=Profile%20views&color=0e75b6&style=flat" alt="haecra" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Merhaba,+Ben+Hecra;Flutter+ile+Mobil+Geliştirme;Web+Projeleri+%26+TypeScript;Unity+Geçmişim+Var" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently learning **Frameworks, JavaScript**
+<br/>
 
-- 💬 Ask me about **unity**
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Hakkımda & Odak</h3>
+      <p>
+        Şu anda <b>Cross-platform mobil uygulama</b> geliştirme üzerine yoğunlaştım ve <b>Flutter</b> öğreniyorum.
+      </p>
+      <p>
+        Aynı zamanda modern web arayüzleri tasarlıyor ve <b>TypeScript</b> ile daha güvenli kod yazma pratikleri yapıyorum.
+      </p>
+      <br/>
+      <img src="https://img.shields.io/badge/Focus-Flutter%20%26%20Web-blue?style=for-the-badge" />
+    </td>
 
-- 📫 How to reach me **hecraatalay@gmail.com**
+    <td width="50%" valign="top" align="center">
+      <h3>🎧 Vibe Check</h3>
+      <a href="https://open.spotify.com/user/37r0hhpbm3qvtlq8sq9gfalsq">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=37r0hhpbm3qvtlq8sq9gfalsq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" width="100%" />
+</a>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="center">
+  <h3>🛠️ Tech Stack & Araçlar</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,ts,react,html,css,unity,cs,git,vscode&theme=dark&perline=10" />
+  </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haecra&show_icons=true&locale=en&layout=compact" alt="haecra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haecra&show_icons=true&locale=en" alt="haecra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haecra&" alt="haecra" /></p>
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HECRA_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HECRA_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages" />
+</div>
