@@ -4,9 +4,9 @@
 
 **Flutter Developer** · **Web Enthusiast** · **UI Lover**
 
----
-
 </div>
+
+---
 
 ## 🧑‍💻 About Me
 
@@ -30,12 +30,22 @@
 
 ## 🎧 Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31r4zya3cxvv5hcptzl4xnz2cmzy&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=e8b4bc&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=37r0hhpbm3qvtlq8sq9gfalsq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify" width="100%")
+<a href="https://open.spotify.com/user/37r0hhpbm3qvtlq8sq9gfalsq">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=37r0hhpbm3qvtlq8sq9gfalsq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=e8b4bc" alt="Spotify" />
+</a>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haecra&show_icons=true&bg_color=0d1117&title_color=e8b4bc&text_color=ffffff&icon_color=e8b4bc&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haecra&show_icons=true&bg_color=0d1117&title_color=e8b4bc&text_color=ffffff&icon_color=e8b4bc&hide_border=true" alt="Stats" />
+</div>
+
+---
+
+<div align="center">
+
+✨ *Designing with passion, coding with purpose* ✨
+
 </div>
