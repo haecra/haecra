@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm haecra 👋
+# Merhaba, ben Hecra 👋
 
 **Web Developer** · **Learning & Building**
 
