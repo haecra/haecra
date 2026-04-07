@@ -44,13 +44,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haecra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="180" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haecra&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haecra&theme=transparent&hide_border=true&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=haecra&theme=transparent&hide_border=true&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haecra&theme=github_dark" />
 
 </div>
 
