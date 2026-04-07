@@ -1,52 +1,29 @@
 <div align="center">
 
-# Merhaba, ben Hecra 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=merhaba%2C+ben+hecra+%E2%9C%8C%EF%B8%8F;building+things+that+sometimes+work;turning+caffeine+into+code+%E2%98%95)](https://git.io/typing-svg)
 
-**Web Developer** · **Learning & Building**
+**`Web Developer · App Dev in Progress · Professional Stack Overflower`**
 
 </div>
 
 ---
 
 <table>
-  <tr>
-    <td width="60%">
+<tr>
+<td valign="top" width="58%">
 
-### 🧑‍💻 About Me
+<h3>🧠 <code>whoami</code></h3>
 
-> Modern web arayüzleri tasarlıyor ve mobil uygulama geliştirmeyi öğreniyorum.
+<pre>
+const hecra = {
+  role: "Web Developer",
+  currentQuest: "Learning App Development 📱",
+  stack: ["TypeScript", "Flutter", "Dart", "Firebase"],
+  dailyRoutine: ["code", "google error", "copy paste", "repeat"],
+  bugCount: NaN,  // lost count honestly
+  coffeeLevel: "critical ☕"
+};
+</pre>
 
-- 🌱 Currently learning **Flutter & TypeScript**
-- 🎮 Exploring **Unity & Game Development**
-- 💻 Focused on **Web Technologies**
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-  </td>
-    <td width="40%" align="center">
-
-<a href="https://open.spotify.com/user/37r0hhpbm3qvtlq8sq9gfalsq">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=37r0hhpbm3qvtlq8sq9gfalsq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=e8b4bc" alt="Spotify" />
-</a>
-
-  </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haecra&show_icons=true&bg_color=0d1117&title_color=e8b4bc&text_color=ffffff&icon_color=e8b4bc&hide_border=true" alt="Stats" />
-</div>
+<ul>
+  <li>🚀 Building mobile apps with<span class="ml-2" /><span class="inline-block w-3 h-3 rounded-full bg-neutral-a12 align-middle mb-[0.1rem]" />
