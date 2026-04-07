@@ -1,25 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=merhaba%2C+ben+hecra+%E2%9C%8C%EF%B8%8F;building+things+that+sometimes+work;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=hey%2C+ben+hecra+%F0%9F%AA%BD;well...+it+works+on+my+machine;yes%2C+i+googled+that+too)](https://git.io/typing-svg)
 
 **`Web Developer · App Dev in Progress · Professional Stack Overflower`**
 
 </div>
 
 ---
-
-### 🧠 `whoami`
-
-<pre>
-const hecra = {
-  role: "Web Developer",
-  currentQuest: "Learning App Development 📱",
-  stack: ["TypeScript", "Flutter", "Dart", "Firebase"],
-  dailyRoutine: ["code", "google error", "copy paste", "repeat"],
-  bugCount: NaN,  // lost count honestly
-  coffeeLevel: "critical ☕"
-};
-</pre>
 
 - 🚀 Building mobile apps with **Flutter & Dart**
 - 🔥 Leveling up in **TypeScript**
@@ -68,12 +55,6 @@ const hecra = {
 </div>
 
 ---
-
-<div align="center">
-
-*"It works on my machine" 
-
-<br>
 
 ![](https://komarev.com/ghpvc/?username=haecra&color=58a6ff&style=flat-square&label=profile+stalkers)
 
