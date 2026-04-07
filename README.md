@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=merhaba%2C+ben+hecra+%E2%9C%8C%EF%B8%8F;building+things+that+sometimes+work;turning+caffeine+into+code+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=merhaba%2C+ben+hecra+%E2%9C%8C%EF%B8%8F;building+things+that+sometimes+work;)](https://git.io/typing-svg)
 
 **`Web Developer · App Dev in Progress · Professional Stack Overflower`**
 
@@ -8,11 +8,7 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="58%">
-
-<h3>🧠 <code>whoami</code></h3>
+### 🧠 `whoami`
 
 <pre>
 const hecra = {
@@ -25,5 +21,60 @@ const hecra = {
 };
 </pre>
 
-<ul>
-  <li>🚀 Building mobile apps with<span class="ml-2" /><span class="inline-block w-3 h-3 rounded-full bg-neutral-a12 align-middle mb-[0.1rem]" />
+- 🚀 Building mobile apps with **Flutter & Dart**
+- 🔥 Leveling up in **TypeScript**
+- 🌐 Focused on **Web Technologies**
+- 📱 On a mission to ship an app *(without mass bugs... hopefully)*
+
+---
+
+### 🎧 Currently Vibing
+
+<div align="center">
+<a href="https://open.spotify.com/user/37r0hhpbm3qvtlq8sq9gfalsq">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=37r0hhpbm3qvtlq8sq9gfalsq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=e8b4bc" alt="Spotify" />
+</a>
+</div>
+
+---
+
+### 🛠️ Tech Arsenal
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=haecra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="180" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haecra&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=haecra&theme=transparent&hide_border=true&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"It works on my machine" 
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=haecra&color=58a6ff&style=flat-square&label=profile+stalkers)
+
+</div>
